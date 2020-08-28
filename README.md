@@ -11,7 +11,7 @@ extensions to start activity for result and request permissions,based on:
 
 ```
 dependencies {
-    implementation 'com.github.yfbx:launch-result:1.0.0-alpha'
+    implementation 'com.github.yfbx-repo:launch-result:1.0.0-alpha'
 }
 ```    
 
