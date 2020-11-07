@@ -1,5 +1,5 @@
 # ResultHelper
-[![](https://img.shields.io/badge/release-1.2.0-beta01-blue.svg)](https://github.com/yfbx-repo/launch-result/releases)
+[![](https://img.shields.io/badge/release-1.2.0.beta01-blue.svg)](https://github.com/yfbx-repo/launch-result/releases)
 
 extensions to start activity for result and request permissions,based on:
 ```
