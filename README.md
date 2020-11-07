@@ -3,15 +3,15 @@
 
 extensions to start activity for result and request permissions,based on:
 ```
-'androidx.activity:activity-ktx:1.2.0-alpha08'
-'androidx.fragment:fragment-ktx:1.3.0-alpha08'
+'androidx.activity:activity-ktx:1.2.0-beta01'
+'androidx.fragment:fragment-ktx:1.3.0-beta01'
 ```
 
 ### dependencies
 
 ```
 dependencies {
-    implementation 'com.github.yfbx:launch-result:1.0.0-alpha'
+    implementation 'com.github.yfbx:launch-result:1.2.0-beta01'
 }
 ```    
 
